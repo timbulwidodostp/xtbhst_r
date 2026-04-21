@@ -1,6 +1,8 @@
 # xtbhst_r
 Bootstrap test for slope homogeneity in large panels Use xtbhst With (In) R Software
 
+https://www.youtube.com/watch?v=D731wvilk4E
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
